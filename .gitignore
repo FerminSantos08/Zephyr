@@ -1,0 +1,8 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+.env
+voice/*.wav
+voice/voices/*.onnx
+zephyr_export.txt
